@@ -1,7 +1,7 @@
 - 👋 Hi, I’m idevelopforyou
-- 👀 I’m interested in programing and cybersecurity...
-- 🌱 I’m currently learning ethical hacking and python...
-- 💞️ I’m looking to collaborate on (dont know yet, i'm new to github)...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning as an autodidact through tutorials and websites
+- 💞️ I’m looking for experienced web developers who can guide me. This will fit my learning needs perfectly
 - 📫
 
 <!---
